@@ -1,1 +1,0 @@
-console.log("Marcelo é vegano")
